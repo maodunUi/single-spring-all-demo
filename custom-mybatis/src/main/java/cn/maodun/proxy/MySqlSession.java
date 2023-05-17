@@ -30,7 +30,7 @@ public class MySqlSession {
             }
             Select select = method.getAnnotation(Select.class);
             String sql = select.value()[0];
-            System.out.println("假装执行select语句");
+            System.out.println("假装执行select语句===> "+sql);
             return null;
         }
     }
