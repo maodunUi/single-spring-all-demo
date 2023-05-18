@@ -11,7 +11,9 @@ import java.util.Map;
 
 /**
  * 1.BeanFactoryPostProcessor
+ *          postProcessBeanFactory
  * 2.BeanDefinitionRegistryPostProcessor
+ *          postProcessBeanDefinitionRegistry
  * 3.ImportBeanDefinitionRegistrar
  *
  * @author DELL
