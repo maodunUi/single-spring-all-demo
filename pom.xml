@@ -10,6 +10,7 @@
     <modules>
         <module>spring-log</module>
         <module>custom-mybatis</module>
+        <module>custom-aop</module>
     </modules>
 
     <packaging>pom</packaging>
